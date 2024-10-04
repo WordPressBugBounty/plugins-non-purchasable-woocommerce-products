@@ -1,0 +1,1 @@
+# plugins-non-purchasable-woocommerce-products
